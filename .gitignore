@@ -1,0 +1,122 @@
+# Qt 特定文件
+*.pro.user
+*.pro.user.*
+*.qws
+.qmake.cache
+.qmake.stash
+*.qm
+*.prl
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.moc
+
+# 编译产物
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.app
+build/
+build-*/
+bin/
+debug/
+release/
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+
+# Makefile
+Makefile*
+!Makefile.am
+
+# Qt Creator
+CMakeLists.txt.user*
+*.creator
+*.creator.user*
+.#qtcreator
+*.autosave
+
+# Qt 临时文件
+*.tmp
+*.bak
+*~
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*.kate-swp
+*.orig
+
+# 操作系统文件
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# 调试和分析工具
+*.gcda
+*.gcno
+*.gcov
+callgrind.out.*
+*.log
+
+# 包管理器
+node_modules/
+.npm
+.yarn-integrity
+
+# 环境配置
+.env
+.env.local
+.env.*.local
+
+# 压缩文件
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# 文档生成
+docs/html/
+docs/latex/
+*.pdf 
