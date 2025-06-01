@@ -90,7 +90,7 @@
 ### 快速开始
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/your-username/HFUT-calculator.git
+   git clone https://github.com/kingyeon-zoo/HFUT-calculator.git
    cd HFUT-calculator
    ```
 
