@@ -201,7 +201,7 @@ HFUT-calculator/
 
 如有问题或建议，请通过以下方式联系：
 - 创建 [GitHub Issue](../../issues)
-- 项目维护者: [您的用户名](https://github.com/kingyeon-zoo)
+- 项目维护者: [Chinyen Zoo](https://github.com/kingyeon-zoo)
 
 ## 变更日志 Changelog
 
