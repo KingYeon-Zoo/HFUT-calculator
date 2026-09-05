@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Qt](https://img.shields.io/badge/Qt-5.15%2B%20%7C%206.x-green.svg)](https://www.qt.io/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue.svg)](https://github.com/your-username/HFUT-calculator)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue.svg)](https://github.com/KingYeon-Zoo/HFUT-calculator)
 [![C++](https://img.shields.io/badge/C%2B%2B-17-red.svg)](https://en.cppreference.com/w/cpp/17)
 
 一个基于 Qt 框架的双模式计算器应用程序，具有现代化的 Apple 风格 UI 设计。
@@ -206,3 +206,7 @@ HFUT-calculator/
 ## 变更日志 Changelog
 
 查看 [CHANGELOG.md](CHANGELOG.md) 了解详细的版本历史和更新内容。 
+
+## 复核与验证
+
+[2026-09-05 复核记录](docs/reviews/2026-09-05.md)记录本次检查、结果与未覆盖部分。
