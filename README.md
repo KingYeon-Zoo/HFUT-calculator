@@ -191,12 +191,6 @@ HFUT-calculator/
 
 本项目基于 MIT 许可证开源 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
-## 致谢 Acknowledgments
-
-- 感谢 Qt 框架提供的强大UI工具
-- 灵感来源于 Apple Calculator 的简洁设计
-- 感谢所有贡献者的支持和建议
-
 ## 联系方式 Contact
 
 如有问题或建议，请通过以下方式联系：
